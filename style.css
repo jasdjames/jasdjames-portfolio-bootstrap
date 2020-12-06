@@ -1,3 +1,7 @@
+body {background-image: url(assets/prude.jpeg);
+
+}
+
 .img-fluid {
     max-width: 100%;
     height: auto ;
@@ -10,7 +14,6 @@ section img {
     margin-bottom: 1rem;
 
 }
-
 
 
 .col-6 {
