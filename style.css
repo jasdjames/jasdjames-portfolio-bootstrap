@@ -5,7 +5,18 @@ body {background-image: url(assets/prude.jpeg);
 }
 
 p {
-    padding-block: 1.5rem;
+    padding: 1.5rem;
+    text-justify: auto;
+}
+.navbar{
+    background-color: #5e8689;
+    justify-content: right;
+    text-align: right;
+    flex-direction: row-reverse;
+    
+}
+.card, .card-text{
+    background-color:rgba(210, 207, 207, 0.49) 
 }
 .rounded { 
     margin-right: 1.5rem;
@@ -14,14 +25,44 @@ p {
 
 .card-body {
     margin: 2rem;
+    background-color:rgba(210, 207, 207, 0.49) ;
+}
+.card-title{
+    padding: 1rem;
+    background-color: #5e8689;
+    font-family: 'Carter One', cursive;
+    letter-spacing: 0.5 rem;
+    color: ghostwhite;
+    font-family: 'Special Elite', cursive;
+    text-align: center;
 }
 
+.sr-only{
+    font-weight: bold;
+}
 .img-fluid {
-    padding-block: 1.5rem;
+    padding: 1.5rem;
+}
+#bluePhoto{
+    width: 25%;
+}
+#aboutCd{
+    margin: 2rem;
+
+}
+.strong {
+    font-family: 'Special Elite', cursive;
+    font-weight:bolder;  
+
+}
+
+#aboutTitle{
+  
+
 }
 
 @media screen and (max-width:768px) {
-
 .container {
     width: 100%;
+}
 }
