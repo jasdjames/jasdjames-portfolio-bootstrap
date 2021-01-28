@@ -13,6 +13,7 @@ p {
     justify-content: right;
     text-align: right;
     flex-direction: row-reverse;
+    padding: 1rem;
     
 }
 .card, .card-text{
