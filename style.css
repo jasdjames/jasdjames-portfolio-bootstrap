@@ -8,6 +8,10 @@ p {
     padding: 1.5rem;
     text-justify: auto;
 }
+h2{
+    text-align: center;
+    margin-top: 1rem;
+}
 .navbar{
     background-color: #5e8689;
     justify-content: right;
@@ -38,9 +42,10 @@ p {
     text-align: center;
 }
 
-.sr-only{
-    font-weight: bold;
-}
+/* .sr-only{
+    fon
+    font-weight: bold; */
+
 .img-fluid {
     padding: 1.5rem;
 }
@@ -51,7 +56,7 @@ p {
     margin: 2rem;
 
 }
-.strong {
+.strong, .sr-only {
     font-family: 'Special Elite', cursive;
     font-weight:bolder;  
 
