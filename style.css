@@ -50,7 +50,9 @@ h2{
     padding: 1.5rem;
 }
 #bluePhoto{
-    width: 25%;
+    
+
+
 }
 #aboutCd{
     margin: 2rem;
@@ -61,27 +63,7 @@ h2{
     font-weight:bolder;  
 
 }
-
-#aboutTitle{
-  
-
-}
-
-@media  screen and (max-width: 600px) {
-     .img-fluid{  display: block;
-        max-width:460px;
-        max-height:190px;
-        width: auto;
-        height: auto; 
-        page-break-after: auto;
-
+#aboutMeTxt{
+       max-width: 75%;
+       padding-left: 2rem;
     }
-    .card-body{
-        background-color: greenyellow;
-    
-    }
-
-    #aboutMeTxt{
-       
-    }
-  }
