@@ -1,4 +1,4 @@
-# jasdjames-portfolio-bootsrap
+# jasdjames-portfolio-bootstrap
 ## Description 
 
 This project's purpose was to create a responsive portfolio that will enhance my chances of obtaining a position in the appropriate field. 
@@ -8,14 +8,14 @@ The process included:
 - Creating index, portfolio, and contact pages
 - Incorporating bootstrap components in all parts of the style and design of the layout, style, and design 
 - Utilizing Bootstrap for its layout and grid system to optimize responsiveness across devices 
-- Adding a NavBar that was consistant across all of the pages
+- Adding a NavBar that was consistent across all of the pages
 - Using minimal media queries to optimize the pages for smaller screens 
 - Adding photos and personal information that would add to the content 
 
 
 ## Installation
 
-This project is listed in the the GitHub repostitory at this is link [GitHub Repository](https://github.com/jasdjames/jasdjames-portfolio-bootstrap)
+This project is listed in the the GitHub repository at this is link [GitHub Repository](https://github.com/jasdjames/jasdjames-portfolio-bootstrap)
 
 This page has been deployed here [Page] (https://jasdjames.github.io/jasdjames-portfolio-bootstrap/)
 
@@ -25,7 +25,7 @@ This page has been deployed here [Page] (https://jasdjames.github.io/jasdjames-p
 The page funtions as a working creative portfolio for Jas James. 
 
 ![Screenshot About](assets/about.png)
-![Screenshot Contat ](assets/contact.png)
+![Screenshot Contact ](assets/contact.png)
 ![Screenshot Portfolio ](assets/port.png)
 
 

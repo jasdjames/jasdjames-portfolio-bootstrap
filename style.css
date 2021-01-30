@@ -67,8 +67,21 @@ h2{
 
 }
 
-@media screen and (max-width:768px) {
-.container {
-    width: 100%;
-}
-}
+@media  screen and (max-width: 600px) {
+     .img-fluid{  display: block;
+        max-width:460px;
+        max-height:190px;
+        width: auto;
+        height: auto; 
+        page-break-after: auto;
+
+    }
+    .card-body{
+        background-color: greenyellow;
+    
+    }
+
+    #aboutMeTxt{
+       
+    }
+  }
