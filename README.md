@@ -13,6 +13,15 @@ The process included:
 - Adding photos and personal information that would add to the content 
 
 
+------------
+This project was updated on 1/30/21 
+- Created Accordion to display attributes
+- Added contact information 
+- Added project examples 
+- Changed color scheme and overall layout 
+
+
+
 ## Installation
 
 This project is listed in the the GitHub repository at this is link [GitHub Repository](https://github.com/jasdjames/jasdjames-portfolio-bootstrap)
@@ -22,11 +31,14 @@ This page has been deployed here [Page] (https://jasdjames.github.io/jasdjames-p
 
 ## Usage 
 
-The page funtions as a working creative portfolio for Jas James. 
+The page functions as a working creative portfolio for Jas James. 
 
-![Screenshot About](assets/about.png)
-![Screenshot Contact ](assets/contact.png)
-![Screenshot Portfolio ](assets/port.png)
+Screenshots 
+![About]()
+![Portfolio]()
+
+
+
 
 
 

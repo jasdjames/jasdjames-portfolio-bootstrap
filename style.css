@@ -1,6 +1,8 @@
-body {background-image: url(assets/images/prude.jpeg);
-      font-family: 'Raleway', sans-serif;
-      font-weight: 500;
+/* Site-wide styles */
+body {
+    background-image: url(assets/images/prude.jpeg);
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
 
 }
 
@@ -42,18 +44,10 @@ h2{
     text-align: center;
 }
 
-/* .sr-only{
-    fon
-    font-weight: bold; */
-
 .img-fluid {
     padding: 1.5rem;
 }
-#bluePhoto{
-    
-
-
-}
+/* Individual Items */
 #aboutCd{
     margin: 2rem;
 
@@ -64,8 +58,8 @@ h2{
 
 }
 #aboutMeTxt{
-       max-width: 75%;
-       padding-left: 2rem;
+    max-width: 75%;
+    padding-left: 2rem;
     }
 
 #resEm{
