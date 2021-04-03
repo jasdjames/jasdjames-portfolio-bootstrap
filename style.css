@@ -1,72 +1,78 @@
 /* Site-wide styles */
 body {
-    background-image: url(assets/images/prude.jpeg);
-    font-family: 'Raleway', sans-serif;
-    font-weight: 500;
-
+  background-image: url(assets/images/prude.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
 }
 
 p {
-    padding: 1.5rem;
-    text-justify: auto;
+  padding: 1.5rem;
+  text-justify: auto;
 }
-h2{
-    text-align: center;
-    margin-top: 1rem;
+h2 {
+  text-align: center;
+  margin-top: 1rem;
 }
-.navbar{
-    background-color: #5e8689;
-    justify-content: right;
-    text-align: right;
-    flex-direction: row-reverse;
-    padding: 1rem;
-    
+span {
+  font-weight: 900;
+  font-size: x-large;
+  margin: 2rem;
 }
-.card, .card-text, .list-group-item{
-    background-color:rgba(210, 207, 207, 0.49) 
+.navbar {
+  background-color: #5e8689;
+  justify-content: right;
+  text-align: right;
+  flex-direction: row-reverse;
+  padding: 1rem;
 }
-.rounded { 
-    margin-right: 1.5rem;
-    margin-bottom: 1.5rem;
+.card,
+.card-text,
+.list-group-item {
+  background-color: rgba(210, 207, 207, 0.49);
+}
+.rounded {
+  margin-right: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 
 .card-body {
-    margin: 2rem;
-    background-color:rgba(210, 207, 207, 0.49) ;
+  margin: 2rem;
+  background-color: rgba(210, 207, 207, 0.49);
 }
-.card-title{
-    padding: 1rem;
-    background-color: #5e8689;
-    font-family: 'Carter One', cursive;
-    letter-spacing: 0.5 rem;
-    color: ghostwhite;
-    font-family: 'Special Elite', cursive;
-    text-align: center;
+.card-title {
+  padding: 1rem;
+  background-color: #5e8689;
+  font-family: 'Carter One', cursive;
+  letter-spacing: 0.5 rem;
+  color: ghostwhite;
+  font-family: 'Special Elite', cursive;
+  text-align: center;
 }
 
 .img-fluid {
-    padding: 1.5rem;
+  padding: 1.5rem;
 }
 /* Individual Items */
-#aboutCd{
-    margin: 2rem;
-
+#aboutCd {
+  margin: 2rem;
 }
-.strong, .sr-only {
-    font-family: 'Special Elite', cursive;
-    font-weight:bolder;  
-
+.strong,
+.sr-only {
+  font-family: 'Special Elite', cursive;
+  font-weight: bolder;
 }
-#aboutMeTxt{
-    max-width: 75%;
-    padding-left: 2rem;
-    }
-
-#resEm{
-    font-size: 5rem;
+#aboutMeTxt {
+  max-width: 75%;
+  padding-left: 2rem;
 }
-.accordion-button:not(.collapsed){
-    background-color: #5e8689;
-    color: ghostwhite;
-    font-family: 'Special Elite', cursive;
+
+#resEm {
+  font-size: 5rem;
+}
+.accordion-button:not(.collapsed) {
+  background-color: #5e8689;
+  color: ghostwhite;
+  font-family: 'Special Elite', cursive;
 }
