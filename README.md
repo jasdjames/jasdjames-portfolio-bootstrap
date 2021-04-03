@@ -41,8 +41,8 @@ This page has been deployed here [Page] (https://jasdjames.github.io/jasdjames-p
 The page functions as a working creative portfolio for Jas James.
 
 Screenshots
-![About]()
-![Portfolio]()
+![About](./assets/images/about.png)
+![Portfolio](./assets/images/port.png)
 
 ## Credits
 
