@@ -1,26 +1,34 @@
 # jasdjames-portfolio-bootstrap
-## Description 
 
-This project's purpose was to create a responsive portfolio that will enhance my chances of obtaining a position in the appropriate field. 
+## Description
 
-The process included: 
+This project's purpose was to create a responsive portfolio that will enhance my chances of obtaining a position in the appropriate field.
+
+The process included:
 
 - Creating index, portfolio, and contact pages
-- Incorporating bootstrap components in all parts of the style and design of the layout, style, and design 
-- Utilizing Bootstrap for its layout and grid system to optimize responsiveness across devices 
+- Incorporating bootstrap components in all parts of the style and design of the layout, style, and design
+- Utilizing Bootstrap for its layout and grid system to optimize responsiveness across devices
 - Adding a NavBar that was consistent across all of the pages
-- Using minimal media queries to optimize the pages for smaller screens 
-- Adding photos and personal information that would add to the content 
+- Using minimal media queries to optimize the pages for smaller screens
+- Adding photos and personal information that would add to the content
+- Adding links to the repository
+- Adding newer projects after project 2
 
+---
 
-------------
-This project was updated on 1/30/21 
+This project was updated on 1/30/21
+
 - Created Accordion to display attributes
-- Added contact information 
-- Added project examples 
-- Changed color scheme and overall layout 
+- Added contact information
+- Added project examples
+- Changed color scheme and overall layout
 
+This project was updated on 4/3/21
 
+- Adding links to the repository
+- Adding newer projects after project 2
+- adjusting minor stylistic changes
 
 ## Installation
 
@@ -28,28 +36,21 @@ This project is listed in the the GitHub repository at this is link [GitHub Repo
 
 This page has been deployed here [Page] (https://jasdjames.github.io/jasdjames-portfolio-bootstrap/)
 
+## Usage
 
-## Usage 
+The page functions as a working creative portfolio for Jas James.
 
-The page functions as a working creative portfolio for Jas James. 
-
-Screenshots 
+Screenshots
 ![About]()
 ![Portfolio]()
 
-
-
-
-
-
 ## Credits
 
-I relied heavily on the Bootstrap Documentation and the classwork. I referred back to our work on media queries, google fonts, reset css, and Bootsrtrap 
-
+I relied heavily on the Bootstrap Documentation and the classwork. I referred back to our work on media queries, google fonts, reset css, and Bootsrtrap
 
 ## License
 
- MIT License
+MIT License
 
 Copyright (c) [2020] [JasDJames]
 
@@ -70,5 +71,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
