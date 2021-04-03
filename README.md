@@ -24,6 +24,8 @@ This project was updated on 1/30/21
 - Added project examples
 - Changed color scheme and overall layout
 
+---
+
 This project was updated on 4/3/21
 
 - Adding links to the repository
